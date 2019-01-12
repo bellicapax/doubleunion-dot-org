@@ -10,7 +10,6 @@ permalink: /about/
 * [History](#history)
 * [Decisionmaking at Double Union](#decisionmaking-at-double-union)
 * [Leadership](#leadership)
-* [Tools](#tools)
 
 ### History
 
@@ -93,54 +92,3 @@ If something is hard to decide, controversial, or otherwise needs a final decisi
   </div>
 </div>
 
-### Tools
-
-Below are some of the tools and activities you can find at Double Union!
-
-<div class='tools' markdown='1'>
-  <div class='tool' markdown='1'>
-![Sewing]({{ "/assets/images/sewing.jpg" | relative_url }})
-#### Sewing and Fiber Arts
-  </div>
-
-  <div class='tool' markdown='1'>
-![Electronics]({{ "/assets/images/electronics.jpg" | relative_url }})
-#### Electronics
-  </div>
-
-  <div class='tool' markdown='1'>
-![Drawing]({{ "/assets/images/drawing.jpg" | relative_url }})
-#### Drawing
-  </div>
-
-  <div class='tool' markdown='1'>
-![Silk Screening]({{ "/assets/images/silk_screening.jpg" | relative_url }})
-#### Silk Screening Tools
-  </div>
-
-  <div class='tool' markdown='1'>
-![3D Printer and CNC]({{ "/assets/images/3d_printer_and_cnc.jpg" | relative_url }})
-#### 3D Printer and CNC
-  </div>
-
-  <div class='tool' markdown='1'>
-![Hand Tools]({{ "/assets/images/hand_tools.jpg" | relative_url }})
-#### Hand Tools
-  </div>
-
-  <div class='tool' markdown='1'>
-![Button Maker]({{ "/assets/images/button_maker.jpg" | relative_url }})
-#### Button Maker
-  </div>
-
-  <div class='tool' markdown='1'>
-![Library]({{ "/assets/images/library.jpg" | relative_url }})
-#### Library
-  </div>
-
-  <div class='tool' markdown='1'>
-![Tea, Coffee, and Mugs]({{ "/assets/images/tea.jpg" | relative_url }})
-#### Tea, Coffee, and Mugs
-  </div>
-
-</div>
